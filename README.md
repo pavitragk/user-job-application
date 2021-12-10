@@ -10,7 +10,7 @@ This project helps to apply jobs in different tech options and admin can segrega
 - View, approve and reject the applied jobs
 - Pagination
 
-## Prerequisite
+## Pre-requisite
 1. To run this app, you must have the **Node Package Manager (NPM)** installed
 
 

@@ -27,14 +27,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Dependencies
 
-- axios 
-- redux 
-- redux-thunk 
-- react-redux 
+- Axios 
+- Redux 
+- Redux-thunk 
+- React-redux 
 - MaterialUI 
 
 find the application link here:
 https://user-job-application.netlify.app
+
+Just glims!
+
+
+https://user-images.githubusercontent.com/48273636/145635504-50e0e2df-a91b-4801-8dd4-b465b2ad4ad0.mp4
+
+
+
 
 
 

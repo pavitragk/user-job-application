@@ -1,4 +1,4 @@
-# Apply Job App
+# User jon application
 
 This project helps to apply jobs in different tech options and admin can segregate the applications based on the options and can able to **view**, **approve** and **reject** those application.
 
